@@ -19,18 +19,20 @@
 			<name>TYC 2099-00908-1 b</name>
 			<name>2MASS J18060904+2625359 b</name>
 			<list>Confirmed planets</list>
-			<mass>2.171</mass>
-			<radius>1.07</radius>
-			<period>5.005425</period>
-			<semimajoraxis>0.055</semimajoraxis>
-			<eccentricity>0.245</eccentricity>
+			<mass errorminus="0.07700" errorplus="0.10500">2.17100</mass>
+			<radius errorminus="0.160" errorplus="0.240">1.070</radius>
+			<period errorminus="0.00009200" errorplus="0.00009100">5.00542500</period>
+			<semimajoraxis errorminus="0.015000" errorplus="0.015000">0.055000</semimajoraxis>
+			<eccentricity errorminus="0.004500" errorplus="0.004500">0.245000</eccentricity>
 			<inclination>87.1</inclination>
 			<discoverymethod>transit</discoverymethod>
 			<lastupdate>13/05/29</lastupdate>
 			<discoveryyear>2011</discoveryyear>
-			<temperature>1324.7</temperature>
+			<temperature errorminus="110" errorplus="230">1450</temperature>
 			<transittime errorminus="-0.000092" errorplus="0.000091" unit="BJD">2454320.8866</transittime>
 			<istransiting>1</istransiting>
+		  <impactparameter errorminus="0.3100" errorplus="0.2300">0.5700</impactparameter>
+			<periastron errorminus="1.8000" errorplus="1.8000">274.3000</periastron>
 		</planet>
 		<name>HAT-P-31</name>
 		<temperature>6065.0</temperature>
