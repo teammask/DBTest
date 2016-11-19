@@ -23,14 +23,14 @@
 		<planet>
 			<name>HD 66428 b</name>
 			<list>Confirmed planets</list>
-			<mass errorminus="0.060" errorplus="0.060">3.194</mass>
-			<period errorminus="6.4" errorplus="6.4">2293</period>
-			<semimajoraxis errorminus="0.069" errorplus="0.069">3.471</semimajoraxis>
-			<eccentricity errorminus="0.013" errorplus="0.013">0.440</eccentricity>
-			<periastrontime errorminus="16" errorplus="16" unit="BJD">2452278</periastrontime>
-			<periastron errorminus="2.6" errorplus="2.6">180.4</periastron>
+			<mass errorminus="0.27000" errorplus="0.27000">2.82000</mass>
+			<period errorminus="31.00000000" errorplus="31.00000000">1973.00000000</period>
+			<semimajoraxis errorminus="0.190000" errorplus="0.190000">3.180000</semimajoraxis>
+			<eccentricity errorminus="0.030000" errorplus="0.030000">0.465000</eccentricity>
+			<periastrontime errorminus="16.000000" errorplus="16.000000" unit="BJD">2452139.000000</periastrontime>
+			<periastron errorminus="3.9000" errorplus="3.9000">152.9000</periastron>
 			<discoverymethod>RV</discoverymethod>
-			<description>HD 66428 b is a long-period giant planaet in an eccentric orbit. The radial velocities for the star exhibit a linear trend, indicating the presence of an additional object in the system.</description>
+			<description>HD 66428 b is a long-period giant planet in an eccentric orbit. The radial velocities for the star exhibit a linear trend, indicating the presence of an additional object in the system.</description>
 			<lastupdate>15/08/15</lastupdate>
 			<discoveryyear>2006</discoveryyear>
 		</planet>
