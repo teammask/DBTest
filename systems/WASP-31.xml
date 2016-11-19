@@ -19,10 +19,10 @@
 			<name>TYC 6087-1053-1 b</name>
 			<name>2MASS J11174536-1903171 b</name>
 			<list>Confirmed planets</list>
-			<mass>0.478</mass>
-			<radius>1.537</radius>
-			<period>3.405909</period>
-			<semimajoraxis>0.04657</semimajoraxis>
+			<mass errorminus="0.02900" errorplus="0.02900">0.47800</mass>
+			<radius errorminus="0.050" errorplus="0.050">1.549</radius>
+			<period errorminus="0.00000500" errorplus="0.00000500">3.40590960</period>
+			<semimajoraxis errorminus="0.000350" errorplus="0.000350">0.046590</semimajoraxis>
 			<eccentricity>0.0</eccentricity>
 			<inclination>84.54</inclination>
 			<transittime errorminus="0.0003" errorplus="0.0003" unit="BJD">2455192.6895</transittime>
